@@ -1,16 +1,3 @@
-# flutterqrprojem
 
-A new Flutter project.
+https://github.com/hazalsguler/FlutterQRCode/assets/136257151/66ec69a7-5c9b-47ed-b95f-2293195c522d
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
